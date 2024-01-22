@@ -20,8 +20,7 @@ This is a React.js/ Next.js based landing page plug-n-play template, ideal for s
 #### 1. Clone repo
 
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
-cd Main
+git clone https://github.com/CurlyRishabh/flazetech.git
 npm install
 ```
 
