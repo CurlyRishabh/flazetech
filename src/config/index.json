@@ -1,0 +1,133 @@
+{
+  "company": {
+    "name": "AeroByte Cloud Solutions",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Welcome to a New Horizon of ",
+    "subtitle": "Cloud Computing.",
+    "description": "Elevate your business to the cloud with AeroByte Cloud Solutions's cutting-edge cloud services. Experience seamless scalability, robust security, and unmatched performance.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:rissag906@gmail.com?subject=I like the landing page!"
+    }
+  },
+  "product": {
+    "title": "Our Service",
+    "items": [
+      {
+        "title": "Cloud Infrastructure",
+        "description1": "Powerful and flexible infrastructure tailored to your needs.",
+        "description2": "Virtual machines, storage, and networking solutions.",
+        "img": "/assets/images/Product1.svg"
+      },
+      {
+        "title": "Data Storage and Management",
+        "description1": "Secure and scalable data storage solutions.",
+        "description2": "Efficient data management tools and analytics.",
+        "img": "/assets/images/Product2.svg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "Why Choose AeroByte Cloud Solutions Services?",
+    "description": "At AeroByte Cloud Solutions, we understand that choosing the right cloud service provider is a critical decision for the success of your business. Here are compelling reasons why businesses trust and choose our cloud services:",
+    "items": [
+      {
+        "name": "Scalability Beyond Limits",
+        "description": "Scale your infrastructure effortlessly as your business grows. Pay only for what you use, ensuring cost efficiency.",
+        "icon": "/assets/images/feature1.png"
+      },
+      {
+        "name": "Robust Security Measures",
+        "description": "Industry-leading security protocols to protect your data. Regular security updates and compliance with industry standards.",
+        "icon": "/assets/images/feature2.png"
+      },
+      {
+        "name": "High Performance",
+        "description": "Experience lightning-fast speeds and minimal latency. Optimize your applications for peak performance.",
+        "icon": "/assets/images/feature3.png"
+      },
+      {
+        "name": "24/7 Reliability",
+        "description": "Uninterrupted access to your data and applications. Redundant systems to ensure maximum uptime.",
+        "icon": "/assets/images/feature4.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "github": "https://github.com/CurlyRishabh",
+      "twitter": "https://x.com/CurlyRishabh",
+      "linkedin": "https://www.linkedin.com/in/rishabhsingh940/"
+    }
+  }
+}
